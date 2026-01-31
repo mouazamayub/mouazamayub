@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Mouazam
-🎓 BSc IT Student
-💻 Learning Python, Java, Security
-🚀 Building projects on GitHub
-🎯 Goal: MSc in Advanced Computing + Strong Tech Career
+- 🎓 BSc IT Student
+- 💻 Learning Python, Java, Security
+- 🚀 Building projects on GitHub
+- 🎯 Goal: MSc in Advanced Computing + Strong Tech Career
 
 📌 Repositories:
 - Programming-Basics: foundation practice
